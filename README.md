@@ -13,7 +13,7 @@ People all over the world are fond of travel and tourism. People often find it d
 The main objective of the project is to create a website using MERN STACK technologies to continuously provide enjoyable quality excursions/trips on time and on budget. It will also develop enthusiastically satisfied customers all of the time.  
 
 
-<strong>FEATURES:-</strong><img src="https://www.flaticon.com/svg/static/icons/svg/2643/2643513.svg" width="24px">
+<strong>FEATURES:-</strong>
 
 - Full featured Wishlist cart
 - Place pagination
